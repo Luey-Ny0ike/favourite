@@ -1,0 +1,10 @@
+h1{
+  color: red;
+  text-align: center;
+  font-style: italic;
+  font-size: 40px
+}
+h2{line-height: 60px;}
+body {background: black;
+  color: white;
+}
